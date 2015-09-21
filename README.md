@@ -4,7 +4,7 @@ A Final Project for CS171. Spring Term 2015.
 
 ### URLs
 
-__web__: http://gaslight.grav.io/final/code/
+__web__: http://sbemagx.github.io/CS171-Metro-Boston-Food-Exploration/code/
 
 __youTube__: https://www.youtube.com/watch?v=oM7Mi2KyIzE
 
